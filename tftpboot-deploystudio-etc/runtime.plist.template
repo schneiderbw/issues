@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dss_base_url</key>
+	<string></string>
+	<key>dss_login</key>
+	<string></string>
+	<key>dss_password</key>
+	<string></string>
+	<key>ldap_auth</key>
+	<string>NO</string>
+	<key>localization</key>
+	<string>en</string>
+	<key>mount_url</key>
+	<string></string>
+	<key>login</key>
+	<string></string>
+	<key>password</key>
+	<string></string>
+</dict>
+</plist>

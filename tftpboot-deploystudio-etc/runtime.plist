@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dss_base_url</key>
+	<string>http://fs01.sbepschools.org:60080</string>
+	<key>dss_login</key>
+	<string>dsadmin</string>
+	<key>dss_password</key>
+	<string>FCGCCCLCOCQDLC</string>
+	<key>ldap_auth</key>
+	<string>NO</string>
+	<key>localization</key>
+	<string>en</string>
+	<key>mount_url</key>
+	<string>nfs://10.58.0.3/Volumes/MacintoshHD2/DeployStudio</string>
+</dict>
+</plist>

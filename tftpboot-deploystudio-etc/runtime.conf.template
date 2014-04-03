@@ -1,0 +1,17 @@
+# keywords: dss_base_url, dss_login, dss_password, localization, mount_url, mount_options, login, password ldap_server, ldap_port, ldap_search_base
+# -> dss_base_url = http[s]://<server hostname or IP address>:<port>
+#    -> dss_login = <login>
+#    -> dss_password = <password>
+# -> localization = en | fr | de
+# -> mount_url = nfs://<server hostname or IP address>/<remote absolute path to the sharepoint folder>
+#                cifs://<server hostname or IP address>/<sharepoint name>
+# -> mount_options = [ nfsv3 ] [ tcp ]
+# -> cifs only:
+#    -> login = <login>
+#    -> password = <password>
+# -> ldap_auth = yes | no
+# -> ldap_server = <server hostname or IP address>
+# -> ldap_port = <service port number>
+# -> ldap_suffix = <suffix> (optionnal)
+localization=en
+ldap_auth=no

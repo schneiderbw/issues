@@ -1,0 +1,4 @@
+###  [  Begin Server Admin managed exports.  Do Not Edit.
+/Library/NetBoot/NetBootSP0  -ro -maproot=root
+###  ]  End Server Admin managed exports.
+/Volumes/MacintoshHD2/DeployStudio -network 10.58.0.0 -mask 255.255.0.0 -mapall=root -manglednames -32bitclients
